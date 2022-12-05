@@ -1,6 +1,3 @@
-
-
-
 export const theme ={
     colors: {
         bg: 'azure',

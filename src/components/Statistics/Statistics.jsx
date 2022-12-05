@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import {Section,Board,Stat,Percentage} from './Statistics.styled'
+import {Stat,Percentage} from './Statistics.styled'
 import { getRandomHexColor } from 'components/Utils/RandomColor'
 import Box from 'components/Box';
 
